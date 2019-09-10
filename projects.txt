@@ -1,0 +1,7 @@
+
+#Marks management
+#Students management
+#former students management
+#Lab reports management
+#Final year projects management
+#Student cards management
